@@ -1,0 +1,5 @@
+baixar arquivos do google-driver pelo wget
+exemplo para download google driver
+https://drive.google.com/file/d/1J6x5h94fZ6kyK3KeD491hTyMAXLndR9S/view?usp=drive_link
+usar o comando wget
+wget https://drive.google.com/file/d/1J6x5h94fZ6kyK3KeD491hTyMAXLndR9S/view?usp=drive_link
